@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "phpspec/phpspec": "^4.3",
+        "phpspec/nyan-formatters": "^2.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

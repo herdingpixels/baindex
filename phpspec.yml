@@ -1,0 +1,4 @@
+suites:
+    baindex_suite:
+        namespace: 
+        psr4_prefix: 
